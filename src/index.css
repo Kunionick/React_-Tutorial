@@ -49,3 +49,14 @@ ul {
 .game-info {
   margin-left: 20px;
 }
+
+/* 課題②着手履歴のリスト中で現在選択されているアイテムを太字にする。 */
+.bold {
+  font-weight: bold;
+  color: rgb(230, 19, 71);
+}
+
+/* 課題⑤勝利につながった 3 つのマス目をハイライト */
+.highlight {
+  background-color: yellow;
+}
